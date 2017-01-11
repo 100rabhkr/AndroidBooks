@@ -281,19 +281,6 @@ public class MainActivity extends AppCompatActivity {
             return temp;
         }
 
-       /* public String strtoshort(String longstr){
-            String temp;
-            if (longstr.contains(".")){
-               String temparr[] = longstr.split(".");
-                temp = temparr[0].trim();
-            }
-
-            else{
-                temp = longstr;
-            }
-
-            return temp;
-        }*/
 
     }
 
